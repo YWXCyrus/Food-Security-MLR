@@ -3,7 +3,7 @@
 Exploratory Data Analysis on Global food security indicators: A comprehensive study using Multiple Linear Regression on "Prevalence of Moderate and Severe Food Insecurity", against numerous socio-economic factors of influence. 
 
 # :memo: Problem Statement
-> “How might we predict the impacts of climate change on agriculture across countries, to maximize food production to ensure adequate, safe and nutritious food for all?”
+> “How might we predict the impacts of climate change on agriculture across countries, to maximize food production ensuring adequate, safe and nutritious food for all?”
 
 # :chart_with_upwards_trend: Quantitative Indicators
 1. Average Temperature
