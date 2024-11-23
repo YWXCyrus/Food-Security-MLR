@@ -1,4 +1,4 @@
-# :united_nations: Zero Hunger
+# :united_nations: Goal 2: Zero Hunger
 
 Exploratory Data Analysis on Global food security indicators: A comprehensive study using Multiple Linear Regression on "Prevalence of Moderate and Severe Food Insecurity", against numerous socio-economic factors of influence. 
 
